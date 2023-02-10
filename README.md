@@ -1,4 +1,4 @@
 - 💬 Ask me about applied math, scientific computing, glaciers, ...
 - 📖 I wrote a [book about using PETSc for fast numerical solutions of partial differential equations](https://my.siam.org/Store/Product/viewproduct/?ProductId=32850137)
-- 🍂 This Spring I am teaching [calculus 3](https://bueler.github.io/calc3/) and [a graduate course in numerical differential equations](https://bueler.github.io/nade/).
+- In Spring 2023 I am teaching [calculus 3](https://bueler.github.io/calc3/) and [a graduate course in numerical differential equations](https://bueler.github.io/nade/).
 - 📫 Email me at [elbueler@alaska.edu](mailto:elbueler@alaska.edu)

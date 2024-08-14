@@ -1,4 +1,4 @@
-- 💬 Ask me about applied math, scientific computing, glaciers, and anything else that comes to mind!
+- 💬 Ask me about applied math, scientific computing, glaciers, and anything else!
 - 📖 I wrote a [book about using PETSc for fast numerical solutions of partial differential equations](https://my.siam.org/Store/Product/viewproduct/?ProductId=32850137)
-- In Spring 2024 I am teaching [calculus 2](https://uaf-math251.github.io/calc2/), [a graduate course in functional analysis](https://bueler.github.io/fa/), and a [graduate seminar in finite elements](https://bueler.github.io/fe-seminar/).
+- In Fall 2024 I am teaching [numerical analysis](https://bueler.github.io/numerical/) and [a graduate course in optimization](https://bueler.github.io/opt/).
 - 📫 Email me at [elbueler@alaska.edu](mailto:elbueler@alaska.edu)

@@ -1,6 +1,5 @@
 - 💬 Ask me about applied math, scientific computing, glaciers, and anything else!
 - 📖 I wrote a [book about using PETSc for fast numerical solutions of partial differential equations](https://my.siam.org/Store/Product/viewproduct/?ProductId=32850137)
 - My book has [C/PETSc and Python/Firedrake examples](https://github.com/bueler/p4pdes)
-- In Spring 2025 I am teaching a graduate course in [numerical analysis of differential equations](https://bueler.github.io/nade/)
-- And I will lead [a graduate seminar in the mathematics and numerics of fluids and solids](https://bueler.github.io/fluid-solid-seminar/)
+- In Fall 2025 I will teach an undergraduate course in real analysis and a graduate course in [numerical linear algebra](https://bueler.github.io/nla/)
 - 📫 Email me at [elbueler@alaska.edu](mailto:elbueler@alaska.edu)

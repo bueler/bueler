@@ -1,5 +1,5 @@
 - 💬 Ask me about applied math, scientific computing, glaciers, and anything else!
-- 📖 I wrote a [book about using PETSc for fast numerical solutions of partial differential equations](https://epubs.siam.org/doi/book/10.1137/1.9781611976311).  My book has C/PETSc and Python/Firedrake examples [at the p4pdes repo here](https://github.com/bueler/p4pdes).
-- Try out the [Parallel Ice Sheet Model (PISM)](https://github.com/pism/pism) or [Stokes solvers for glaciers tutorial](https://github.com/bueler/stokes-ice-tutorial) or [Stefano's adaptive mesh refinement library for variational inequalities](https://github.com/StefanoFochesatto/viamr)!
+- 📖 I wrote a [book about using PETSc for fast numerical solutions of partial differential equations](https://epubs.siam.org/doi/book/10.1137/1.9781611976311).  My book has C/PETSc and Python/Firedrake examples [at my p4pdes repo](https://github.com/bueler/p4pdes).
+- Check out the [Parallel Ice Sheet Model (PISM)](https://github.com/pism/pism) or [a tutorial on Stokes solvers for glaciers](https://github.com/bueler/stokes-ice-tutorial) or [Stefano's adaptive mesh refinement library for variational inequalities](https://github.com/StefanoFochesatto/viamr)!
 - In Fall 2025 I am teaching an undergraduate course in [real analysis](https://bueler.github.io/real/) and a graduate course in [numerical linear algebra](https://bueler.github.io/nla/)
 - 📫 Email me at [elbueler@alaska.edu](mailto:elbueler@alaska.edu)

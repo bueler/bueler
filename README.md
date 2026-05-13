@@ -3,3 +3,4 @@
 - 📫 Email me at [elbueler@alaska.edu](mailto:elbueler@alaska.edu).
 - 📖 I wrote a [book about using PETSc for fast numerical solutions of partial differential equations](https://epubs.siam.org/doi/book/10.1137/1.9781611976311).  The book's C and Python/Firedrake examples are at the [p4pdes repo](https://github.com/bueler/p4pdes).
 - Check out the [Parallel Ice Sheet Model (PISM)](https://github.com/pism/pism) or [a tutorial on Stokes solvers for glaciers](https://github.com/bueler/stokes-ice-tutorial) or [full approximation scheme constraint decomposition multigrid for variational inequalities](https://bitbucket.org/pefarrell/fascd/src/master/) or [Stefano's adaptive mesh refinement library for variational inequalities](https://github.com/StefanoFochesatto/viamr).
+- In Fall 2026 and Spring 2027 semesters I am on sabbatical, and loosely based in New York city.
